@@ -6,7 +6,7 @@ layout: default
 Introduction to C Programming
 ------
 
-This *Introduction to C Programming* (*introC*) course is part of the ACE program hosted by the [https://www.cmu.edu/ini](Information Networking Institute) at [https://www.cmu.edu/](Carnegie Mellon University).
+This *Introduction to C Programming* (*introC*) course is part of the ACE program hosted by the [Information Networking Institute](https://www.cmu.edu/ini) at [Carnegie Mellon University](https://www.cmu.edu/).
 
 ## Course Description
 
