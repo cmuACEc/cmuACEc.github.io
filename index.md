@@ -1,9 +1,9 @@
 ---
 title: introc
-layout: home
+layout: default
 ---
 
 IntroC
 ------
 
-...
+this goes here...
