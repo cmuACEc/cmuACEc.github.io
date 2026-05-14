@@ -1,1 +1,3 @@
-# cmuACEc.github.io
+# Intro to C Programming
+
+Course Info
